@@ -1,0 +1,25 @@
+_repo: Snovit-barnens-julkalender-1918-Illustrerad-lasning-ur-verklighetens-och-sagans-varld_54184
+_version: 0.0.1
+contributor:
+  illustrator: &id001
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2017-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54184'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Snövit barnens julkalender 1918
+
+  Illustrerad läsning ur verklighetens och sagans värld'
+url: http://www.gutenberg.org/ebooks/54184
