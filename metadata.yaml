@@ -1,14 +1,19 @@
 _repo: Snovit-barnens-julkalender-1918-Illustrerad-lasning-ur-verklighetens-och-sagans-varld_54184
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator: &id001
     agent_name: Various
     alias: Verschillende
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
+covers:
+- cover_type: archival
+  image_path: 54184-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54184#Snovit-barnens-julkalender-1918-Illustrerad-lasning-ur-verklighetens-och-sagans-varld
 gutenberg_issued: '2017-02-17'
 gutenberg_type: Text
 identifiers:
